@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Priest254
+- 👀 I’m interested in coding and Computer Tech 
+- 🌱 I’m currently learning Geospatial Engineering(GIS, Surveying, Geodesy)
+- 💞️ I’m looking to collaborate on open source python projects
+- 📫 How to reach me: Whatsapp +254790055254 Instagram @priest__254 Telegram https://t.me/priest254
